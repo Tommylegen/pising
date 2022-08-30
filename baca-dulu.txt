@@ -1,0 +1,13 @@
+!! PERINGATAN !!
+file "GantiNamaFile.php" wajib di ganti nama, contoh: GantiNamaFile.php gw ganti ke "kontol.php"
+agar menghindari penggantian email oleh orang yang tidak bertanggung jawab..!
+
+!! CARA MASUK KE PANEL !!
+tinggal masuk ke file barusan lu ganti
+contoh: https://mediafire.qr-t.xyz/kontol.php
+
+oke saya harap paham😊
+
+!! JIKA TIDAK PAHAM !!
+hubungi wa jubzhosting
+wa : 0895388788567
