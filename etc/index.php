@@ -1,1 +1,1 @@
-Copyright © Jubzhosting 
+Copyright © Kingxhosting 
